@@ -11,3 +11,4 @@ Law X Laravel CRM APP
 7. and run php artisan key:generate to generate the key value to the database and run PHP ARTISAN SERVE and open your browser and check it through your set port mine is localhost:8000 and you be brought to the dashboard with client management at the sidebar 
 8. you click on the + circle inside the listed client and you see edit icon and delete icon there and you can update customer details there also at the left upper corner you will see a button to add client and you will be prompted on successful registering of clients
 9. cheers we have our simple CRM by Raji Ajibola Lateef set up already 
+you can search through the search bar for client through client surname 
